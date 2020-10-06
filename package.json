@@ -1,0 +1,14 @@
+{
+  "name": "hello-prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/cli": "^2.8.0",
+    "@prisma/client": "^2.8.0",
+    "@types/node": "^14.11.5",
+    "mysql": "^2.18.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
